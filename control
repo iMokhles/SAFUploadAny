@@ -1,0 +1,8 @@
+Package: com.imokhles.safuploadany
+Name: SAFUploadAny iOS9
+Depends: mobilesubstrate, firmware (>= 9.0), com.imokhles.imodevtools
+Version: 1.1
+Architecture: iphoneos-arm
+Description: upload any file from Safari iOS 9
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
